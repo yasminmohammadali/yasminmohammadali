@@ -1,67 +1,82 @@
-<h2>Hi there 👋 I'm Yasmin</h2>
+<div align="center">
+
+<h1>Hi 👋, I'm Yasmin</h1>
+<h3>📊 Business Analytics Enthusiast | 🎓 BBA Student | 🚀 Future Entrepreneur</h3>
+
+</div>
+
+---
+
+### 🚀 About Me  
+<ul>
+  <li>🎓 BBA student specializing in <b>Entrepreneurship & Business Analytics</b></li>
+  <li>📊 Currently doing a <b>Business Analytics Internship</b></li>
+  <li>💡 Passionate about turning <b>data into business insights</b></li>
+  <li>📈 Love building <b>dashboards and analyzing real-world data</b></li>
+</ul>
+
+---
+
+### 🛠️ Skills & Tools  
 
 <p>
-🎓 BBA Student specializing in <b>Entrepreneurship & Business Analytics</b><br>
-📊 Passionate about using data to drive smart business decisions
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-<hr>
+---
 
-<h3>🚀 About Me</h3>
+### 📊 Projects  
+
+🔹 <b>Sales Dashboard</b>  
+<br>Analyzed sales data to identify trends, top products, and revenue insights  
+
+<br><br>
+
+🔹 <b>Healthcare Data Dashboard</b>  
+<br>Worked with patient data (BP categories, conditions) to generate insights  
+
+<br><br>
+
+🔹 <b>Financial Analysis (Excel)</b>  
+<br>Used NPV and financial functions to evaluate investment decisions  
+
+---
+
+### 📈 Currently Learning  
+
 <ul>
-  <li>Currently gaining hands-on experience through a <b>Business Analytics internship</b></li>
-  <li>Skilled in analyzing data and creating <b>interactive dashboards</b></li>
-  <li>Interested in combining <b>business strategy with data insights</b></li>
-  <li>Exploring how analytics can solve real-world business problems</li>
+  <li>🐍 Advanced Python for Data Analysis</li>
+  <li>📊 Data Visualization Best Practices</li>
+  <li>📉 Business Intelligence Tools</li>
+  <li>🧠 Real-world Analytics Projects</li>
 </ul>
 
-<h3>🛠️ Skills & Tools</h3>
+---
+
+### 📌 Goals  
+
 <ul>
-  <li><b>Microsoft Excel</b> (Advanced formulas, Financial Functions, Data Analysis)</li>
-  <li><b>SQL</b> (Joins, Aggregations, Data Queries)</li>
-  <li><b>Python</b> (Basics, Data Analysis using Pandas)</li>
-  <li><b>Power BI / Tableau</b> (Dashboards & Data Visualization)</li>
-  <li><b>Data Cleaning & Business Analytics</b></li>
+  <li>✨ Become a <b>data-driven business analyst</b></li>
+  <li>📊 Build impactful analytics & dashboard projects</li>
+  <li>🚀 Grow as an <b>entrepreneur with analytical thinking</b></li>
 </ul>
 
-<h3>📊 Projects</h3>
-<ul>
-  <li>
-    📈 <b>Sales Dashboard</b><br>
-    Created an interactive dashboard to analyze sales trends, top products, and revenue insights
-  </li>
-  <br>
-  <li>
-    🏥 <b>Healthcare Data Dashboard</b><br>
-    Analyzed patient data (e.g., BP categories, conditions) to generate meaningful insights
-  </li>
-  <br>
-  <li>
-    📉 <b>Financial Analysis using Excel</b><br>
-    Worked on NPV and financial functions to evaluate investment decisions
-  </li>
-</ul>
+---
 
-<h3>📈 Currently Learning</h3>
-<ul>
-  <li>Advanced Python for Data Analysis</li>
-  <li>Data Visualization Best Practices</li>
-  <li>Business Intelligence & Dashboard Design</li>
-  <li>Real-world Analytics Projects</li>
-</ul>
+### 📫 Connect with Me  
 
-<h3>📌 Goals</h3>
-<ul>
-  <li>Build strong expertise in <b>Business Analytics & Data-Driven Decision Making</b></li>
-  <li>Develop impactful <b>dashboard and analytics projects</b></li>
-  <li>Grow into a <b>data-driven entrepreneur</b></li>
-</ul>
-
-<h3>📫 Connect with Me</h3>
 <p>
-LinkedIn: <a href="#">Add your link here</a>
+  🔗 <a href="#">LinkedIn (add your link here)</a>
 </p>
 
-<hr>
+---
 
-<p><i>✨ “Turning data into insights and insights into action.”</i></p>
+<div align="center">
+
+✨ <i>"Turning data into insights and insights into action."</i> ✨
+
+</div>
