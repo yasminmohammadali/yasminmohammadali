@@ -87,7 +87,7 @@
 ### 📫 Connect with Me  
 
 <p>
-  🔗 <a href="yasmin-mohammad-ali-396a4a271">LinkedIn</a>
+  🔗 <a href="https://www.linkedin.com/in/yasmin-mohammad-ali-396a4a271" target="_blank">LinkedIn</a>
 </p>
 
 ---
