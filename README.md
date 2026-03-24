@@ -12,7 +12,7 @@
   <li>🎓 BBA student specializing in <b>Entrepreneurship & Business Analytics</b></li>
   <li>📊 Currently doing a <b>Business Analytics Internship</b></li>
   <li>💡 Passionate about turning <b>data into business insights</b></li>
-  <li>📈 Love building <b>dashboards and analyzing real-world data</b></li>
+  <li>📈 Enjoy building <b>dashboards and analyzing real-world data</b></li>
 </ul>
 
 ---
@@ -26,6 +26,23 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
+
+---
+
+### 📊 Portfolio  
+
+🔗 <b>Sales Dashboard</b>
+<br><img src="your-image-link-here" width="600"/> 
+
+<br><br>
+
+🔗 <b>Healthcare Data Dashboard</b>  
+<br><img src="your-image-link-here" width="600"/>
+
+<br><br>
+
+🔗 <b>Financial Analysis (Excel)</b>  
+<br><a href="#">View Project</a>  
 
 ---
 
@@ -70,7 +87,7 @@
 ### 📫 Connect with Me  
 
 <p>
-  🔗 <a href="#">LinkedIn (add your link here)</a>
+  🔗 <a href="yasmin-mohammad-ali-396a4a271">LinkedIn</a>
 </p>
 
 ---
