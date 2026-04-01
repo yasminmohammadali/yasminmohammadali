@@ -29,23 +29,6 @@
 
 ---
 
-### 📊 Portfolio  
-
-🔗 <b>Sales Dashboard</b>
-<br><img src="your-image-link-here" width="600"/> 
-
-<br><br>
-
-🔗 <b>Healthcare Data Dashboard</b>  
-<br><img src="your-image-link-here" width="600"/>
-
-<br><br>
-
-🔗 <b>Financial Analysis (Excel)</b>  
-<br><a href="#">View Project</a>  
-
----
-
 ### 📊 Projects  
 
 🔹 <b>Sales Dashboard</b>  
