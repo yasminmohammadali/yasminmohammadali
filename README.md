@@ -20,30 +20,42 @@
 ### 🛠️ Skills & Tools  
 
 <p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 Projects  
 
-🔹 <b>Sales Dashboard</b>  
-<br>Analyzed sales data to identify trends, top products, and revenue insights  
+<h3>Telco Customer Churn Analytics Dashboard</h3>
+<ul>
+  <li>Built an end-to-end analytics project using SQL, Python, Excel, and Power BI</li>
+  <li>Extracted and cleaned IBM churn data using SQL and pandas</li>
+  <li>Analyzed churn patterns, customer behavior, and risk segments</li>
+  <li>Created KPI cards, slicers, and DAX measures for interactive insights</li>
+</ul>
 
-<br><br>
+<h3>Retail Demand Forecasting & Inventory Optimization Dashboard</h3>
+<ul>
+  <li>Developed forecasting dashboards using Excel, Tableau, and Power BI</li>
+  <li>Analyzed historical sales data to predict demand trends and stock levels</li>
+  <li>Used Pivot Tables, charts, and time-series forecasting techniques</li>
+  <li>Designed visuals to identify overstocking and understocking scenarios</li>
+</ul>
 
-🔹 <b>Healthcare Data Dashboard</b>  
-<br>Worked with patient data (BP categories, conditions) to generate insights  
-
-<br><br>
-
-🔹 <b>Financial Analysis (Excel)</b>  
-<br>Used NPV and financial functions to evaluate investment decisions  
-
+<h3>Competitor Price & Review Monitoring Automation (n8n Workflow)</h3>
+<ul>
+  <li>Built an automation workflow using n8n, REST APIs, Google Sheets, and Gmail API</li>
+  <li>Fetched competitor product prices and reviews automatically</li>
+  <li>Processed and stored data using JavaScript logic in workflows</li>
+  <li>Enabled real-time tracking and email alerts for business decisions</li>
+</ul>
 ---
 
 ### 📈 Currently Learning  
